@@ -32,7 +32,6 @@ header {
 
 header .container {
   padding: 32px 0;
-  outline: 1px solid red;
   display: flex;
   align-items: center;
 }
